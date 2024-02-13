@@ -18,7 +18,7 @@ http://202.150.153.254:443/bandungtvWEBSITE.m3u8
 #EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1641920474-.png" group-title="NASIONAL-HD",INONESIANA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://indonesiana.tv/
-https://63b2dc7196c38.streamlock.net:1937/indonesianamusik/myStream/chunklist_w562272178.m3u8
+https://63b2dc7196c38.streamlock.net:1937/indonesianamusik/myStream/chunklist_w1443223863.m3u8
 
 #EXTINF:-1 group-title="NASIONAL-HD" tvg-logo="https://e7.pngegg.com/pngimages/312/895/png-clipart-beritasatu-com-logo-beritasatu-media-holdings-news-kids-reading-quraan-television-text.png", BTV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
