@@ -6,6 +6,11 @@
 
 #EXTM3U
 >>>>> NASIONAL-HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Rajawali_Televisi_2014_stacked_below.svg/revision/latest?cb=20200802115312" group-title="NASIONAL-HD", RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a75d0b62-972c-4700-9c8e-59367ef275cb)/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png" group-title="NASIONAL-HD", BANDUNG TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=http://streaming.bandungtv.tv/
