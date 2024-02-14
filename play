@@ -1,7 +1,5 @@
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml"
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesiapremium1.xml"
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesiapremium4.xml"
+#EXTM3U x-tvg-url="http://khano.nng.cloudns.us/epg/global/guide.xml.gz" url-tvg="http://khano.nng.cloudns.us/epg/global/guide.xml.gz" refresh="3600"
+
 
 
 #EXTM3U
