@@ -123,6 +123,31 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 #EXTINF:-1 group-title="OLAH RAGA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png", SOCCER CHANNEL
 https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
+EXTINF:-1 group-title="OLAH RAGA" tvg-id="sportstars" tvg-logo="https://i.imgur.com/LMLCBqk.png", SportStars
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd 
+
+#EXTINF:-1 group-title="OLAH RAGA" tvg-id="sportstars" tvg-logo="https://i.imgur.com/3lo1rsg.png", SportStars 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:-1 group-title="OLAH RAGA" tvg-id="mncsports3.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/640px-Sportstars_3.png", Sportstars 3 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1 group-title="OLAH RAGA" tvg-id="sportstars4.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sportstars_4.png/640px-Sportstars_4.png", Sportstars 4 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+http://nyanv-live-cdn.mncnow.id:80/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+
 
 >>>>> FILM
 #EXTINF:-1 group-title="FILM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/celestial-movies-hk.png", CELESTIAL MOVIES 
