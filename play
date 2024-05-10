@@ -31,7 +31,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 
 #EXTINF:-1 group-title="NASIONAL-HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/indosiar-id.png", INDOSIAR 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1715337150~acl=/hls-p/ingest_17252_*/*~hmac=a6fd56aaead7810e870f0069cbd58255e608c78583404f176b86572fa84595f4/hls-p/ingest_17252_720p/index.m3u8
 
 #EXTINF:-1 group-title="NASIONAL-HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/sctv-id.png", SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
