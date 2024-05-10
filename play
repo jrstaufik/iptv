@@ -104,22 +104,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8
 https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="OLAH RAGA", TRUE SPORT PREMIER 2 
 https://edge1.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2dcE3mjJNK1PXvA6dyegcuadQrjtNZjxKwg&usqp=CAU" group-title="OLAH RAGA", BEIN SPORTS TH
-https://ctrl.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSxSmaCkSbJqWAIDq5p2qUlH9vwzZGtJPEyg&usqp=CAU" group-title="OLAH RAGA", BEIN SPORTS 2 TH
-https://ctrl.laotv.la/live/Bsport2/index.m3u8
-
-#EXTINF:-1 group-title="OLAH RAGA" tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg", Vidio-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://etslive-2-vidio-com.akamaized.net/exp=1715337150~acl=/hls-p/ingest_17252_*/*~hmac=a6fd56aaead7810e870f0069cbd58255e608c78583404f176b86572fa84595f4/hls-p/ingest_17252_1080p/index.m3u8
-
-#EXTINF:-1 group-title="OLAH RAGA" tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg", Vidio-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://etslive-2-vidio-com.akamaized.net/exp=1715337150~acl=/hls-p/ingest_17252_*/*~hmac=a6fd56aaead7810e870f0069cbd58255e608c78583404f176b86572fa84595f4/hls-p/ingest_17252_720p/index.m3u8
-
-#EXTINF:-1 group-title="OLAH RAGA" tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg", Vidio-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://etslive-2-vidio-com.akamaized.net/exp=1715337150~acl=/hls-p/ingest_17252_*/*~hmac=a6fd56aaead7810e870f0069cbd58255e608c78583404f176b86572fa84595f4/hls-p/ingest_17252_360p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
