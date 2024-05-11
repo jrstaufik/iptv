@@ -87,7 +87,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
 #EXTINF:-1 group-title="NASIONAL-HD" tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2022/06/996x664/vidio_43ca752.jpg", Pidio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://etslive-2-vidio-com.akamaized.net/exp=1715351176~acl=/hls-p/ingest_17252_*/*~hmac=43b33653e55cec2eca8dac979082b4183933afd2bfbf8a7135b8e43b387dcd75/hls-p/ingest_17252_1080p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1715366437~acl=/hls-p/ingest_17252_*/*~hmac=900fd5ffad6482d8f8adb6799516bb92982ffbe60cb1e437875412a394542e89/hls-p/ingest_17252_1080p/index.m3u8
 
 >>>>> OLAH RAGA
 #EXTINF:-1 group-title="OLAH RAGA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-sport-id.png", TVRI SPORT 
