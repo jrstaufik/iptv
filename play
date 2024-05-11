@@ -89,6 +89,11 @@ http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://etslive-2-vidio-com.akamaized.net/exp=1715424349~acl=/hls-p/ingest_17252_*/*~hmac=49715078816e7e00e2ea0c49a61eb6be645d9f6c3b91cf8677435dd53da5b0ea/hls-p/ingest_17252_1080p/index.m3u8
 
+#EXTINF:-1 group-title="NASIONAL-HD" tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2022/06/996x664/vidio_43ca752.jpg", Pidio-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://etslive-2-vidio-com.akamaized.net/exp=1715436540~acl=/hls-p/ingest_17252_*/*~hmac=1e1227afe08fd0dcbaa34e2534b351a8980f2102cc166ad1bef386226e4e3e2a/hls-p/ingest_17252_1080p/index.m3u8
+
+
 >>>>> OLAH RAGA
 #EXTINF:-1 group-title="OLAH RAGA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-sport-id.png", TVRI SPORT 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
