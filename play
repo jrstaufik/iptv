@@ -93,7 +93,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD
 
 #EXTINF:-1 group-title="NASIONAL-HD" tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2022/06/996x664/vidio_43ca752.jpg", Pidio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://etslive-2-vidio-com.akamaized.net/exp=1715444063~acl=/hls-p/ingest_17252_*/*~hmac=25736b077d4b96617db7a1b8e165e8f045344237ad4ca6d33b29c0294a3f77f6/hls-p/ingest_17252_1080p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1715534719~acl=/hls-p/ingest_17252_*/*~hmac=07eb74cfac49e7782f8d17ce4bf9596c04d37cef791df1c3067bb18c346c23a6/hls-p/ingest_17252_1080p/index.m3u8
 
 >>>>> OLAH RAGA
 #EXTINF:-1 group-title="OLAH RAGA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-sport-id.png", TVRI SPORT 
